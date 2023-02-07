@@ -6,6 +6,7 @@ const PORT = 2330
 const crewmates = {
 
     'luffy': {
+        'Name': 'Luffy',
         'Status': 'Captain',
         'Devil Fruit User': 'Yes',
         'Devil Fruit': 'Gomu Gomu No Mi',
@@ -14,6 +15,7 @@ const crewmates = {
     },
 
     'zoro': {
+        'Name': 'Zoro',
         'Status': 'Swordsman',
         'Devil Fruit User': 'No',
         'Devil Fruit': 'N/Ap',
@@ -22,6 +24,7 @@ const crewmates = {
     },
 
     'nami': {
+        'Name': 'Nami',
         'Status': 'Navigator',
         'Devil Fruit User': 'No',
         'Devil Fruit': 'N/Ap',
@@ -30,6 +33,7 @@ const crewmates = {
     },
 
     'usopp': {
+        'Name': 'Usopp',
         'Status': 'Sniper',
         'Devil Fruit User': 'No',
         'Devil Fruit': 'N/Ap',
@@ -38,6 +42,7 @@ const crewmates = {
     },
 
     'sanji': {
+        'Name': 'Sanji',
         'Status': 'Cook',
         'Devil Fruit User': 'No',
         'Devil Fruit': 'N/Ap',
@@ -46,6 +51,7 @@ const crewmates = {
     },
 
     'chopper': {
+        'Name': 'Chopper',
         'Status': 'Doctor',
         'Devil Fruit User': 'Yes',
         'Devil Fruit': 'Hito Hito No Mi',
@@ -55,6 +61,7 @@ const crewmates = {
 
 
     'nico robin': {
+        'Name': 'Nico Robin',
         'Status': 'Archaeologist',
         'Devil Fruit User': 'Yes',
         'Devil Fruit': 'Hana Hana No Mi',
@@ -63,6 +70,7 @@ const crewmates = {
     },
 
     'franky': {
+        'Name': 'Franky',
         'Status': 'Shipwright',
         'Devil Fruit User': 'No',
         'Devil Fruit': 'N/Ap',
@@ -71,6 +79,7 @@ const crewmates = {
     },
 
     'brook': {
+        'Name': 'Brook',
         'Status': 'Musician',
         'Devil Fruit User': 'Yes',
         'Devil Fruit': 'Yomi Yomi No Mi',
@@ -79,6 +88,7 @@ const crewmates = {
     },
 
     'jinbe': {
+        'Name': 'Jinbe',
         'Status': 'Helmsman',
         'Devil Fruit User': 'No',
         'Devil Fruit': 'N/Ap',
@@ -87,6 +97,7 @@ const crewmates = {
     },
 
     'buggy the clown - you goofed': {
+        'Name': 'Buggy the Clown - You Goofed',
         'Status': 'Pirate King',
         'Devil Fruit User': 'Yes',
         'Devil Fruit': 'Bara Bara No Mi',
