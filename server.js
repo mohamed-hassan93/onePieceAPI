@@ -114,6 +114,6 @@ app.get('/api/:name', (req, res) => {
     console.log(crewmates[crewMate])
 })
 
-app.listen(processs.env.PORT || PORT, () => {
+app.listen(process.env.PORT || PORT, () => {
     console.log(`I\'m going to be the pirate king! Catch our crew in on ${PORT}!`)
 })
